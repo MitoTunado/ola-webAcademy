@@ -1,5 +1,3 @@
-Estou no WebAcademy! 
+Esta é uma atividade prática de iniciação no Git.
 
-Hoje é sexta-feira! 
-
-Quero ir pra balada! 
+Este repositório foi criado seguindo um passo-a-passo.
